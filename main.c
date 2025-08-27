@@ -1,4 +1,4 @@
-// Aamna Ghimire
+// Aamna G
 //Simple Grade Calculator!
 // February 19th 2024 (Final Version)
 // A university student's go-to platform.
